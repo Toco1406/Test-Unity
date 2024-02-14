@@ -1,0 +1,9 @@
+# Ignorer les fichiers temporaires
+*Assembly-Csharp
+*Danyellow3.sln
+
+# Ignorer les fichiers de compilation
+*Temp 
+*Logs
+*Library
+*.vscode
