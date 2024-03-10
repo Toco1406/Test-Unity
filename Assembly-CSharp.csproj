@@ -68,6 +68,7 @@
     <Compile Include="Assets\Script\HealthBar.cs" />
     <Compile Include="Assets\Script\enemy.cs" />
     <Compile Include="Assets\Script\CurrentSceneManager.cs" />
+    <Compile Include="Assets\Script\EnemyPatrol.cs" />
     <Compile Include="Assets\Script\PlayerMovement.cs" />
     <Compile Include="Assets\Script\cameraFollow.cs" />
     <Compile Include="Assets\Script\VoidventChannel.cs" />
